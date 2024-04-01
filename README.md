@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Introduction
+안녕하세요, 컴퓨터공학전공 학생 입니다.
+
+## Carrer
+- 영남대학교 컴퓨터학부 컴퓨터공학전공 재학
+
+## Links
