@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=364765&textBg=282829&fontColor=363636&text=WOOTAK'S%20GITHUB)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&textBg=f7f5f5&fontColor=363636&text=WOOTAK'S%20GITHUB)
 
 ## Introduction
 안녕하세요, 저는 현재 영남대학교에서 컴퓨터공학을 전공하고 있는 3학년 윤우탁 입니다.
