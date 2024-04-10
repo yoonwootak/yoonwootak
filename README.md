@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=WOO%TAK'S%%GIT%HUB)
+
 
 ## Introduction
 안녕하세요, 저는 현재 영남대학교에서 컴퓨터공학을 전공하고 있는 3학년 윤우탁 입니다.
