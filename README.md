@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=WOO%TAK'S%%GIT%HUB)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=WOOTAK'S%20GITHUB)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=WOOTAK'S-nl-GITHUB)
 
 
 ## Introduction
