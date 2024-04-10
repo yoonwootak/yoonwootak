@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=364765&textBg=282829&fontColor=FAF7F5&text=WOOTAK'S%20GITHUB)
-
 ## Introduction
 안녕하세요, 저는 현재 영남대학교에서 컴퓨터공학을 전공하고 있는 3학년 윤우탁 입니다.
 프로그래밍과 소프트웨어 개발에 관심이 많으며, 주로 c, c++, java를 사용하여 프로젝트를 진행할 예정 입니다.
