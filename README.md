@@ -15,12 +15,12 @@ Spring Boot 기반으로 백엔드 개발을 학습하며
 
 ## 🛠 기술 스택
 
-Java  
-Spring Boot  
-Spring Data JPA  
-MySQL  
-Gradle  
-Git / GitHub  
+- Java  
+- Spring Boot  
+- Spring Data JPA  
+- MySQL  
+- Gradle  
+- Git / GitHub  
 
 ---
 
